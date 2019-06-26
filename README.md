@@ -1,2 +1,2 @@
 # Basic-Algorithms
-This is simple Algoritams project
+This is simple Algoritams projec.
