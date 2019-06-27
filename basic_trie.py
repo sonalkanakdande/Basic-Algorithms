@@ -50,7 +50,7 @@ basic_trie = {
 print('Is "a"   a word: {}'.format(basic_trie['a']['word_end']))
 print('Is "ad"  a word: {}'.format(basic_trie['a']['d']['word_end']))
 print('Is "add" a word: {}'.format(basic_trie['a']['d']['d']['word_end']))
-
+print('Is "addd" a word: {}'.format(basic_trie['a']['d']['d']['d']['word_end']))
 
 def is_word(word):
     """
